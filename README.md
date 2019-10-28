@@ -1,10 +1,5 @@
 <html>
 <head>
-<style>
-  #container{
-    color: dark-orangem;
-  }
-<style>
 </head>
 <body>
 <div id="content">
